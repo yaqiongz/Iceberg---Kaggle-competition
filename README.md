@@ -1,4 +1,5 @@
-# This folder contains the code for the recent Kaggle challange: Iceberg classification using remote sensing images.
+
+This folder contains the code for the recent Kaggle challange: Iceberg classification using remote sensing images.
 
 ## [read my final report in jupyter notebook here](http://nbviewer.jupyter.org/github/yaqiongz/aws/blob/master/FinalReport/FinalR_AWS.ipynb)
 
